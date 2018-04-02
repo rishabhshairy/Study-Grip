@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357752157070",
+    "firebase_url": "https://study-grip.firebaseio.com",
+    "project_id": "study-grip",
+    "storage_bucket": "study-grip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357752157070:android:7edddf021daa62f2",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.studygrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357752157070-a6la21u3uli6udjdh4nmo3cbdq1551ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKiNh5xO5X3yJnC480BAa4f4keUmp4Gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
